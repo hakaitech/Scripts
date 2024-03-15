@@ -1,0 +1,3 @@
+#!/bin/zsh
+set -m
+tmux splitw -h -l40% yazi
